@@ -1,6 +1,6 @@
 
 ---
-## (Application Overview Video Link)[https://drive.google.com/file/d/199RGFtRAycy1Ccu4cyoe2ilTJYt6rcvw/view?usp=sharing] 
+## [Application Overview Video Link](https://drive.google.com/file/d/199RGFtRAycy1Ccu4cyoe2ilTJYt6rcvw/view?usp=sharing) 
 ## Functionality Details
 
 ### 1. Candidate Application Submission
